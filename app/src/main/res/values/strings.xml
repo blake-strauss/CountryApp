@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Country App</string>
+
+    <string-array name="countries_list">
+        <item>USA</item>
+        <item>Israel</item>
+        <item>Canada</item>
+        <item>Ukraine</item>
+        <item>Japan</item>
+    </string-array>
+
+    <string name="countries_prompt">Choose a country.</string>
+</resources>
